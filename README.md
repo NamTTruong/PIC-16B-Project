@@ -20,7 +20,7 @@ You are required to include sections in your proposal that address the following
 #### _Describe what you will learn.  ( 5 pts )_
 > Insert text here.
 
-**_Include group members and role and tentative timeline for each group member. ( 10 pts )_**
+#### _Include group members and role and tentative timeline for each group member. ( 10 pts )_
 > The names of the members that will be contributing to this project are:
 >> **Meiyi Ye** - Role  
 >>> Tentative timeline:
@@ -43,11 +43,9 @@ You are required to include sections in your proposal that address the following
 
 
 
-Other requirements: (5 pts)
-> Insert text here.
-
-There is no specifically required length for the proposal. Generally speaking, I would expect a thoughtful proposal to require around 600-900 words.
-The proposal is written in clear English prose.
-The proposal is hosted on GitHub as the top-level README.md file in a repository.
-You should submit a pdf file to Gradescope. All other formats are not accepted.
+#### _Other requirements: (5 pts)_
+- [ ] There is no specifically required length for the proposal. Generally speaking, I would expect a thoughtful proposal to require around 600-900 words.
+- [ ] The proposal is written in clear English prose.
+- [ ] The proposal is hosted on GitHub as the top-level README.md file in a repository.
+- [ ] You should submit a pdf file to Gradescope. All other formats are not accepted.
 Grading is based on required sections and other requirements.
