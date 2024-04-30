@@ -1,7 +1,7 @@
 # PIC 16B Project Proposal
-Required sections:
 
-You are required to include sections in your proposal that address the following topics. Feel free to include additional sections as needed. Remember that you can create Markdown sections using the # character.
+> [!IMPORTANT]
+> You are required to include sections in your proposal that address the following topics. Feel free to include additional sections as needed. Remember that you can create Markdown sections using the # character.
 
 
 
