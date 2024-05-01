@@ -2,11 +2,19 @@
 
 > [!IMPORTANT]
 > You are required to include sections in your proposal that address the following topics. Feel free to include additional sections as needed. Remember that you can create Markdown sections using the # character.
-
+>> **Meiyi Ye** - Role  
+>>> I am majoring in Statistics and Data Science, this project is great for applying my knowledge from school to a practical, real world challenge. It involves data manipulation, application of statistical models, machine learning techniques, and possibly natural language processing for handling textual yelp review data. These are all key areas in the field of data science and directly relate to my coursework and training. I am interested in this project because this project allows me to leverage my skills in statistical analysis and machine learning in a context that impacts real businesses and consumers.
+>>> 
+>>
+>> **Cynthia Du** - Role
+>>> This project relates to my majors, Statistics + Data Science and Cognitive Science, because I hope to break into the data science industry and provide insights for businesses to implement more sustainable, equitable, and efficient business processes. This project will allow me to gain experience in creating a data science project, and familiarize myself with important data science concepts such as sentiment analysis and machine learning.
+>>
+>> **Nam Truong**
+>>> I am a Mathematics of Computation major. For my career path I have taken an interest in software engineering and data science. I don’t have much exposure to data science so this project will allow me to gain experience. I am interested in this topic because I have always had interest in training some sort of machine learning model to predict some sort of data. More specifically, I live in an area that’s populated with businesses so if this project goes well and my interest takes me beyond this class I can use the end result or skill set from this project to potentially create a catering service for the businesses around me.
 
 
 #### _Describe what problem the project addresses, the relation between your project and your background or major, and why you are interested in this project. ( 5 pts )_
-> Insert text here.
+> The project aims to predict business ratings based on Yelp data, which provides detailed information about the business. The prediction of business ratings is valuable for both customers and businesses because it allows consumers to make informed decisions on where to dine, and allows businesses to identify areas of improvement for customer satisfaction.
     
 #### _Describe what resources, such as data, computing power, and etc, you need in order to complete your project. Please pay special attention to the question of data. If your project idea involves data, include at least one link to a data set you can use. It’s also acceptable to link to a website from which you intend to scrape the data you will use (although note that high-quality scraping is a lot of work).  ( 10 pts )_
 > Insert text here.
@@ -15,7 +23,7 @@
 > Insert text here.
 
 #### _Describe required tools and skills. ( 10 pts )_
-> Insert text here.
+> We anticipate using Google Cloud to host our project. Scikit-learn, NLTK, Pandas, Matplotlib, Seaborn, TensorFlow/PyTorch, and Jupyter Notebook are some tools that we plan to use. Some skills we may be required to know to achieve our task of making accurate predictions of business ratings are: data preprocessing, data visualization, natural language processing (NLP), machine learning, and various math/statistics concepts.
 
 #### _Describe what you will learn.  ( 5 pts )_
 > Insert text here.
