@@ -31,9 +31,16 @@
 > The names of the members that will be contributing to this project are:
 >> **Meiyi Ye**
 >>> Tentative timeline:
->>> - a
->>> - b
->>> - c
+>>> - Week 6
+>>>     - Clean the dataset, handle missing values, and format the data for text analysis (tokenization, removing stopwords)
+>>> - Week 7
+>>>     - EDA (develop features from the text: sentiment scores, frequency of positive and negative words)
+>>> - Week 8
+>>>     -  Collaborate with team to select and train initial models
+>>>     -  Tune models, discuss improvements, model refinement
+>>> - Week 9
+>>>     -  Prepare final visualizations
+>>>     -  Prepare presentation
 >>
 >> **Cynthia Du**
 >>> Tentative timeline:
