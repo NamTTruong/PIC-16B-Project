@@ -43,10 +43,18 @@
 >>>     -  Prepare presentation
 >>
 >> **Cynthia Du**
->>> Tentative timeline:
->>> - a
->>> - b
->>> - c
+>>> - Week 5
+>>>     - Finalize rough plan of project
+>>>     - Familiarize self with data
+>>> - Week 6: Data preprocessing
+>>>     - Handle NA values
+>>>     - Ensure data is in usable format
+>>> - Week 7: EDA
+>>>     - Generate basic visualizations + tables to explore relationships
+>>> - Week 8
+>>>     -  Model training, error analysis
+>>> - Week 9
+>>>     -  Final visualizations, presentation
 >>
 >> **Nam Truong**
 >>> Tentative timeline:
