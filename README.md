@@ -60,8 +60,11 @@
 
 
 #### _Other requirements: (5 pts)_
-- [x] There is <ins>no specifically required length</ins> for the proposal. Generally speaking, I would expect a thoughtful proposal to require around 600-900 words.
-- [x] The proposal is written in clear English prose.
-- [x] The proposal is hosted on GitHub as the top-level README.md file in a repository.
-- [x] You should submit a pdf file to Gradescope. All other formats are not accepted.
+:heavy_check_mark: There is <ins>no specifically required length</ins> for the proposal. Generally speaking, I would expect a thoughtful proposal to require around 600-900 words.
+
+:heavy_check_mark: The proposal is written in clear English prose.
+
+:heavy_check_mark: The proposal is hosted on GitHub as the top-level README.md file in a repository.
+
+:heavy_check_mark: You should submit a pdf file to Gradescope. All other formats are not accepted.
 Grading is based on required sections and other requirements.
