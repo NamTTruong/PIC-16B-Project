@@ -26,7 +26,7 @@
 > We anticipate using Google Cloud to host our project. Scikit-learn, NLTK, Pandas, Matplotlib, Seaborn, TensorFlow/PyTorch, and Jupyter Notebook are some tools that we plan to use. Some skills we may be required to know to achieve our task of making accurate predictions of business ratings are: data preprocessing, data visualization, natural language processing (NLP), machine learning, and various math/statistics concepts.
 
 #### _Describe what you will learn.  ( 5 pts )_
-> Insert text here.
+> From our assignments and how our lecture notes are organized, everything is given to us in a step-by-step manner, walking us through how to work with some sort of data or code from scratch. This project will teach us how to set up our Python environment with the data so that we can apply the concepts that we have learned in class to preprocess the data to our needs and create a model to train our data on.
 
 #### _Include group members and role and tentative timeline for each group member. ( 10 pts )_
 > The names of the members that will be contributing to this project are:
