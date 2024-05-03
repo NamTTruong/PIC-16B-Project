@@ -1,3 +1,7 @@
+> [!NOTE]
+> Disclaimer: This is not our work. We do not take credit for anything that is in the dataset-examples-master folder. Everything in this can be found [here](https://github.com/Yelp/dataset-examples).
+
+
 [![Build Status](https://travis-ci.org/Yelp/dataset-examples.svg)](https://travis-ci.org/Yelp/dataset-examples)
 
 Yelp's Academic Dataset Examples
