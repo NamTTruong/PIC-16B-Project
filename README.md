@@ -24,6 +24,16 @@ How to set up our environment to run our code:
    
 #### _Models Used_
 
+Delete later: I think it's better if you try to summarize all the LSTM and CNN together. I listed them all here based on the project report just in case.
+
+1. LSTM Network
+2. LSTM Network with Early Stopping and Dropout Layers
+3. LSTM network with L2 Regularization
+4. Convolutional Neural Network (CNN)
+5. CNN with Early Stopping and Dropout Layers
+6. CNN with L2 Regularization
+7. BERT (Bidirectional Encoder Representations from Transformers)
+   > asd
 
 #### _Performance_
 
