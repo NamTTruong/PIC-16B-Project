@@ -33,7 +33,7 @@ Delete later: I think it's better if you try to summarize all the LSTM and CNN t
 5. CNN with Early Stopping and Dropout Layers
 6. CNN with L2 Regularization
 7. BERT (Bidirectional Encoder Representations from Transformers)
-   > We used DestilBERT which has 66 million parameters. We use 20% of our raw data for the DestilBERT tokenizer with max_length=512. This was about a third of the actual amount of words in each review in the 95th percentile. We had to set the value low to prevent our GPU from running out of memory. It took us about 2 hours to train and as expected, due to this limit, our DestilBERT model did not perform well and overfitted.
+   > We used DestilBERT which has 66 million parameters. We used 20% of our raw data for the DestilBERT tokenizer with max_length=512. This was about a third of the actual amount of words in each review in the 95th percentile. We had to set the value low to prevent our GPU from running out of memory. It took us about 2 hours to train and as expected, due to this limit, our DestilBERT model did not perform well and overfitted.
 
 #### _Performance_
 
