@@ -1,6 +1,15 @@
 # PIC 16B Project Summary
+#### Project Overview
+Yelp is a popular platform where users share their experiences and rate businesses on a scale from one to five stars. These reviews significantly influence consumer decisions and play a crucial role in shaping the reputations of businesses. Accurately predicting the ratings of these reviews helps in understanding consumer sentiment and preferences, which is vital for both users and business owners. For our project, we developed a predictive model that can determine the true star rating of a Yelp review based on its textual content. By analyzing patterns in word usage and sentiment, the model aims to offer a normalized rating that more accurately reflects the actual quality of the service. 
+
+#### Models Used
 
 
+#### Performance
+
+
+#### Conclusion
+Our project successfully developed a model to predict the star ratings of Yelp reviews based on the text review content. By transforming review text into sequences and applying a trained machine-learning model, we were able to predict star ratings with a reasonable degree of accuracy. Thus, our model provides a valuable tool for both businesses and customers in understanding and analyzing feedback through automated star rating predictions.
 
 # PIC 16B Project Proposal
 
