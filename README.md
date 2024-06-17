@@ -1,4 +1,4 @@
-# PIC 16B Project Summary
+# PIC 16B Project Summary // Cynthia Du, Meiyi Ye, Nam Truong
 
 > [!IMPORTANT]
 > Our files were too large so we could not upload them to GitHub, hence we have decided to share our Google Drive that we used for this project.
